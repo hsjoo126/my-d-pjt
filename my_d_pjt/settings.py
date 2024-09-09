@@ -27,7 +27,7 @@ SECRET_KEY = config.DJANGO_SECRET_KEY
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "172.31.3.241",
+    "43.201.97.119",
     "127.0.0.1",
     "localhost",
 ]
